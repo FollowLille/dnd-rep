@@ -1,8 +1,9 @@
 # dnd-rep
 
-Campaign repository for our text RPG experiments.
+Репозиторий для наших текстовых RPG-кампаний.
 
-## Workflow
-- `main` keeps stable campaign state.
-- Each new world or campaign arc lives in its own branch.
-- Public and GM layers are stored separately.
+## Как работаем
+- `main` хранит общие правила, шаблоны и канонизированные итоги завершённых историй.
+- Каждый новый мир живёт в своей ветке `world/<название-мира>`.
+- По умолчанию играем прямо в world-ветке и коммитим изменения после сессий.
+- Если понадобится более строгий контроль, можно заводить отдельные session-ветки.

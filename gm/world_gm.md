@@ -1,17 +1,17 @@
-# World GM
+# Мир мастера
 
-## Purpose
-Master-only truths, hidden lines, secret motivations, and delayed consequences.
+## Назначение
+Скрытая мастерская база. Здесь лежат истинные мотивы, тайные линии, скрытые угрозы и последствия, которые ещё не проявились в кадре.
 
-## Hidden lines
-### Ashen Cargo
-A cult-linked artifact is moving through Merrow's port.
+## Скрытые линии
+### Пепельный груз
+Через порт Мерроу движется артефакт, связанный с древним культом.
 
-### Northern Selection
-Disappearances on the northern road are organized, not random.
+### Северный отбор
+Исчезновения на северной дороге не случайны. За ними стоит организованная сила.
 
-## Key NPCs
-- Serra Vellar
-- Sergeant Brom
-- Prior Elric
-- Iaran Troy
+## Ключевые NPC
+- Серра Веллар
+- Сержант Бром
+- Приор Элрик
+- Иаран Трой

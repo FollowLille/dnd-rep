@@ -1,21 +1,21 @@
-# World Public
+# Мир игрока
 
-## Purpose
-Open lore, known factions, rumors, and facts the player can reasonably know.
+## Назначение
+Открытый лор мира. Здесь лежат факты, слухи, известные фракции и прочая информация, которую персонаж может знать или узнать без вскрытия мастерской кухни.
 
-## Tone
-- Dark fantasy
-- Grounded consequences
-- Rare and costly magic
+## Тон
+- Тёмное фэнтези
+- Приземлённые последствия
+- Редкая и дорогая магия
 
-## Regions
-- Merrow
-- Vald-Renn
-- Salt Coast
-- Ashen Hills
+## Регионы
+- Мерроу
+- Вальд-Ренн
+- Соляной берег
+- Пепельные холмы
 
-## Public factions
-- House Vellar
-- City Guard of Merrow
-- Caravan Union
-- Church of Ash
+## Известные фракции
+- Дом Веллар
+- Городская стража Мерроу
+- Союз караванщиков
+- Церковь Пепла

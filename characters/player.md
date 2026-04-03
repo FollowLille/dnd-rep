@@ -1,28 +1,28 @@
-# Player Character
+# Персонаж игрока
 
-## Identity
-- Name:
-- Role:
-- Origin:
+## Личность
+- Имя:
+- Роль:
+- Происхождение:
 
-## Attributes
-- Strength:
-- Agility:
-- Endurance:
-- Perception:
-- Intellect:
-- Will:
-- Charisma:
+## Характеристики
+- Сила:
+- Ловкость:
+- Выносливость:
+- Восприятие:
+- Интеллект:
+- Воля:
+- Харизма:
 
-## Skills
-- Blades:
-- Stealth:
-- Persuasion:
-- Deception:
-- Lore:
+## Навыки
+- Клинки:
+- Скрытность:
+- Убеждение:
+- Обман:
+- Знания:
 
-## Inventory
-- Coins:
-- Weapon:
-- Armor:
-- Items:
+## Инвентарь
+- Монеты:
+- Оружие:
+- Броня:
+- Предметы:
